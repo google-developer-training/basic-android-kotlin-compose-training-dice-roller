@@ -1,5 +1,5 @@
 ---
-name: Project Unit 2 pathway 3 art space issue template
+name: Project unit 2 pathway 3 art space issue template
 about: Issue template for Create an Art Space app
 title: 'Art Space app: Android Basics in Compose'
 labels: ''

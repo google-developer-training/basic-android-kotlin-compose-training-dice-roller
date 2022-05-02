@@ -1,7 +1,7 @@
 ---
 name: Write conditionals in Kotlin issue template
 about: Issue template for Write conditionals in Kotlin
-title: 'Write conditionals in Kotlin: Android Basics in Compose'
+title: 'Write conditionals in Kotlin: Android Basics with Compose'
 labels: ''
 assignees: ''
 

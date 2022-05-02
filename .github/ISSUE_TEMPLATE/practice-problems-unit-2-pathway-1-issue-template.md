@@ -1,7 +1,7 @@
----
+A ---
 name: Practice problems unit 2 pathway 1 issue template
 about: Issue template for Unit 1 | Pathway 1 | Practice Problems
-title: 'Practice problems Unit 2 Pathway 1: Android Basics in Compose'
+title: 'Practice problems Unit 2 Pathway 1: Android Basics with Compose'
 labels: ''
 assignees: ''
 

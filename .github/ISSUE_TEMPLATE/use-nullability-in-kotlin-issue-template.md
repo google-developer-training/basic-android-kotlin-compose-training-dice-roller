@@ -1,7 +1,7 @@
 ---
 name: Use nullability in Kotlin issue template
 about: Issue template for Use nullability in Kotlin
-title: 'Use nullability in Kotlin: Android Basics in Compose'
+title: 'Use nullability in Kotlin: Android Basics with Compose'
 labels: ''
 assignees: ''
 

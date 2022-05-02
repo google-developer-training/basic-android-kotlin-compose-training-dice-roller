@@ -1,7 +1,7 @@
 ---
 name: Use function types and lambda expressions in Kotlin issue template
 about: Use function types and lambda expressions in Kotlin
-title: 'Use function types and lambda expressions in Kotlin: Android Basics in Compose'
+title: 'Use function types and lambda expressions in Kotlin: Android Basics with Compose'
 labels: ''
 assignees: ''
 

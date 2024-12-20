@@ -63,7 +63,6 @@ class MainActivity : ComponentActivity() {
 fun DiceRollerApp() {
     DiceWithButtonAndImage(modifier = Modifier
         .fillMaxSize()
-        .wrapContentSize(Alignment.Center)
     )
 }
 
@@ -78,7 +77,7 @@ fun DiceWithButtonAndImage(modifier: Modifier = Modifier) {
         5 -> R.drawable.dice_5
         else -> R.drawable.dice_6
     }
-    Column(modifier = modifier, horizontalAlignment = Alignment.CenterHorizontally) {
+    Column(modifier = modifier.wrapContentSize(Alignment.Center), horizontalAlignment = Alignment.CenterHorizontally) {
         Image(painter = painterResource(imageResource), contentDescription = result.toString())
         
         Button(
